@@ -1,0 +1,7 @@
+[2026-10-10T22:41:45Z] === AST ITERATION 1 START | repo=mkdocstrings/griffe-tui sha=6ccad194 ===
+[2026-10-10T22:41:45Z] [iter=1] PHASE START: ast repo=mkdocstrings/griffe-tui sha=6ccad194
+[2026-10-10T22:41:45Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T22:41:53Z] [iter=1] AST chunks built count=1 triples=74348
+[2026-10-10T22:41:53Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/6ccad19400d50d3f529f1afdd299b3b923e9779f/.complete
+[2026-10-10T22:41:53Z] [iter=1] PHASE END: ast elapsed_s=8 elapsed_min=0.1
+[2026-10-10T22:41:53Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
